@@ -1,5 +1,6 @@
-AirBnB Clone Project
-Project Introduction: Overview of the Airbnb Clone Project
+# AirBnB Clone Project
+
+## Project Introduction: Overview of the Airbnb Clone Project
 
 **Background Context **
 
@@ -7,7 +8,7 @@ Welcome to the AirBnB Clone Project! ✨
 
 This project aims to provide you with hands-on experience in developing a simple booking and management system, using AirBnB as a case study. A well-designed booking system should offer a user-friendly UI/UX with functionalities for users to perform basic tasks.
 
-Product Vision:
+### Product Vision:
 
 We envision a user-friendly AirBnB clone with the following key pages:
 
@@ -35,19 +36,21 @@ Project Timeline ️
 
 This section will be filled in as you progress through the project, outlining phases and milestones.
 
-**Technologies Used **
+## Technologies Used
 
-Frontend:
+### Frontend:
 
 React with TypeScript
 Next.js for server-side rendering and static site generation
 TailwindCSS for styling
-Backend (for illustrative purposes):
+
+### Backend (for illustrative purposes):
 
 Python
 Django
 MySQL
-Other Tools:
+
+### Other Tools:
 
 Redux or Context API for state management
 REST for API integration
@@ -74,11 +77,35 @@ The "Project Timeline" section will be filled in as you progress through the pro
 Consider replacing the generic "Page-1", "Page-2", and "Page-3" descriptions with more specific details about your envisioned functionalities.
 You can adjust or expand the content based on your specific project requirements.
 
-UI/UX Design Planning
+## UI/UX Design Planning
 
 This section outlines the planning process for the UI/UX design of our AirBnB clone project.
 
-Design Goals
+## Color Styles and Typography
+
+### Color Palette
+
+Primary Colors:
+
+- Turquoise/Teal: Used for the main navigation, headings, and call-to-action buttons
+- White: Used as the primary background color
+- Gray Tones: Used for text, borders, and secondary elements
+  Accent Colors:
+- Yellow: Used for highlighting important information or calls to action
+- Blue: Used sparingly, possibly for links or interactive elements
+- Green: Used to indicate positive attributes or status (e.g., pricing, ratings)
+
+### Typography
+
+Font Family
+
+- Sans-serif typeface
+- Arial
+- Roboto
+  Font Weights and Usage
+- Headings/Titles: Bold weight (700 or 800) is used for the main property titles, creating a clear visual hierarchy.
+- Subheadings: A medium weight (500 or 600) is used for secondary information like location, price, and ratings
+- Body Text: A regular weight (400) is used for the detailed property descriptions and metadata.# Design Goals
 
 Our primary goals for the UI/UX design are:
 
@@ -91,7 +118,8 @@ Key Features
 
 The UI/UX design will focus on implementing the following key features:
 
-Property Listing View:
+### Property Listing View:
+
 Display a list of available properties with clear thumbnails, titles, prices, and brief descriptions.
 Allow for sorting and filtering options by location, price, amenities, etc.
 Enable easy navigation to detailed property views.
@@ -106,7 +134,8 @@ Clearly display the total cost and breakdown of fees.
 Securely process payment information.
 Table: Page Descriptions
 
-Page Description
+### Page Description
+
 Property Listing View Displays a list of available properties with clear thumbnails, titles, prices, and brief descriptions.
 Listing Detailed View Provides in-depth information about a specific property, including images, description, amenities, location map, and host details.
 Simple Checkout View Streamlines the booking process with a user-friendly interface for selecting dates, guest count, and finalizing the booking.
@@ -122,7 +151,7 @@ Improved Conversion Rates: A user-friendly design minimizes booking abandonment 
 Enhanced Brand Image: A well-designed interface reflects a professional and trustworthy brand, attracting more users.
 By prioritizing user-friendliness in our UI/UX design, we can create a booking system that is both enjoyable and efficient to use, ultimately achieving our project goals.
 
-Additional Considerations:
+### Additional Considerations:
 
 User research and testing throughout the design process will be vital to ensure the UI/UX meets user needs and expectations.
 We should consider design patterns and user interface (UI) component libraries to speed up development and maintain consistency.
